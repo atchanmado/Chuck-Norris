@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(201, 178, 104);
+  border: 300px;
+  text-align: center;
+  padding-top: 300px;
+  justify-content: space-around;
+}
+button {
+  background: #0f0c29;
+  color: white;
+  border: 1px solid #302b63;
+  padding: 10px;
+  outline: none;
+}
+.quote-btn {
+  padding-top: 25px;
+}
